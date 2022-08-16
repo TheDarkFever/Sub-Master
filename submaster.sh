@@ -2,7 +2,7 @@
 
 figlet -f slant SUB MASTER | lolcat
 
-echo "                              Created by TheDarkFever" | lolcat
+echo "                              Created by Ekansh Choudhary" | lolcat
 
 echo "1. Enumerating Sub-Domians"
 
