@@ -57,8 +57,6 @@ go install -v github.com/lukasikic/subzy@latest
 
 # Install Sub Master
 echo "Installing Sub-Master.."
-git clone https://github.com/TheDarkFever/Sub-Master.git
-cd Sub-Master
 chmod +x submaster.sh
 sudo mv submaster.sh /usr/bin
 
