@@ -9,15 +9,17 @@
 
 # Installing
   1. Installing Submaster with all the dependencies. (Use this if you do not have dependencies installed in you system)
-  ```-> git clone https://github.com/TheDarkFever/Sub-Master.git
+  ```
+     -> git clone https://github.com/TheDarkFever/Sub-Master.git
      -> cd Sub-Master
      -> chmod +x install.sh
      -> bash install.sh 
   ```
-                                                                                Or
+                                                                        Or
 
    2. Installing SubMaster (Use this if you already have the required dependencies installed)
-  ``` -> git clone https://github.com/TheDarkFever/Sub-Master.git
+  ```
+      -> git clone https://github.com/TheDarkFever/Sub-Master.git
       -> cd Sub-Master
       -> chmod +x submaster.sh
       -> sudo mv submaster.sh /usr/bin (Making program run globally)
